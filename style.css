@@ -1,0 +1,21 @@
+tr:nth-child(even) {
+    background-color: aqua;
+}
+
+table tr:nth-child(odd) {
+    background-color: red
+}
+
+td {
+    width: 50px;
+}
+
+section {
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+
+body {
+    width: 500px;
+}
